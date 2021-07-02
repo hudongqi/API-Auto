@@ -1,0 +1,10 @@
+
+# 数据库配置
+database:
+  host:
+  port:
+  user:
+  password:
+  name: nice_3306_sneaker
+  charset: utf8
+person: [student, boss, teacher]

@@ -1,0 +1,17 @@
+
+#接口请求相关参数
+request_1:
+  url: "http://api.oyster.lab.oneniceapp.com/sneakersale/getresaleListV1?a_x=-0.002319&a_y=-0.005234&a_z=-0.996719&abroad=no&amap_latitude=0.000000&amap_longitude=0.000000&appv=5.8.6.20&ch=AppStore_5.8.6.20&did=7250caede1b745b2e49df9893ec99155&dn=iPhone%20%282%29&dt=iPhone13%2C3&g_x=0.005380&g_y=-0.002705&g_z=0.000477&geoacc=0&im=275786D7-9C9D-4B67-90D0-E1E956E57092&la=cn&latitude=0.000000&lm=mobile&longitude=0.000000&lp=-1.000000&n_bssid=&n_dns=192.168.66.10&n_ssid=&net=0-0-wifi&osn=iOS&osv=14.2&seid=0f8e72f3d7a8e9aa2d13030401f40a02&sh=844.000000&sm_dt=20201204114408569c34b017309ea1a482092d3d87de3f01c2e04a0de1039d&sw=390.000000&token=VtabYwqaNg-5i_8tIlfgPI4ozwKaF-b7&ts=1621855220306"
+  headers: {'Content-Type': 'application/json','Cookie': 'nuid=CgoKPV88x2RpPn1fLL4RAg=='}
+  payload: "nice-sign-v1://2e9cb32d03c7896fbfaec705c6158e25:8139145f449f9b0b/{\"nextkey\":\"\",\"token\":\"VtabYwqaNg-5i_8tIlfgPI4ozwKaF-b7\"}"
+  request_type: 'POST'
+  abc:
+    def: 'qwerqwr'
+
+request_2:
+  url:
+  headers:
+  payload:
+  request_type:
+
+request_3:
