@@ -21,10 +21,10 @@ class Database:
         self.close()
         result = cur.fetchall()
 
-        # a = []
-        # for row in result:
-        #     id = row[0]
-        #     a.append(id)
+        a = []
+        for row in result:
+            id = row[0]
+            a.append(id)
 
         return result
 
